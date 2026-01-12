@@ -58,15 +58,8 @@ I'm a **GenAI Developer** and **Full-stack Software Engineer** with a passion fo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merx666&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merx666&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
+## 📊  GitHub Activity
+![GitHub contributions](https://ghchart.rshah.org/merx666)
 
 ---
 
