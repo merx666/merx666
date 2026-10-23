@@ -32,7 +32,7 @@ From administering bare-metal server clusters serving tens of thousands of activ
 - **🎵 Real-Time Audio DSP & Graphics Engineering**: Sub-millisecond browser pitch tracking (YIN, autocorrelation), multithreaded `AudioWorklet` processors, and 60+ FPS synchronized WebGL/Canvas 2D note highway engines.
 - **🤖 Autonomous AI & Multi-Agent Orchestration**: Goal-loop architectures, Model Context Protocol (MCP) tooling, persistent episodic vector memory, and self-remediating code pipelines.
 - **📟 Embedded Firmware & Low-Level Systems**: C and C++ embedded development, memory-constrained GUI layouts (LVGL), UART/Wi-Fi protocol communication, and hardware interrupt handling.
-- **💻 Production Full-Stack Development**: Strict type safety across TypeScript, Next.js App Router, Python (FastAPI), Vue 3, and modern relational database architectures.
+- **💻 Production Full-Stack Development**: Strict type safety across TypeScript, Next.js App Router, Python (FastAPI), and modern relational database architectures.
 
 ---
 
@@ -55,8 +55,8 @@ From administering bare-metal server clusters serving tens of thousands of activ
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES2024+-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117)](https://developer.mozilla.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-15_App_Router-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117)](https://react.dev/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=0D1117)](https://vuejs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-High_Performance-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117)](https://fastapi.tiangolo.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117)](https://tailwindcss.com/)
 
 ### 🎵 Audio DSP, Real-Time & Hardware
 [![WebAudio API](https://img.shields.io/badge/WebAudio_API-AudioWorklets-FF6F00?style=flat-square&logo=webrtc&logoColor=white&labelColor=0D1117)](#)
@@ -108,19 +108,6 @@ From administering bare-metal server clusters serving tens of thousands of activ
     </tr>
     <tr>
       <td>
-        <b>🤖 <a href="https://github.com/merx666/neurosim_h">Neurosim Engine</a></b><br>
-        <i>Cognitive AI Multi-Agent Architecture</i><br>
-        <code>Autonomous Swarm Framework</code>
-      </td>
-      <td>
-        Autonomous AI agent swarm framework featuring goal-loop execution, persistent episodic memory indexing, self-evaluating safety guards, and automated GitHub PR &amp; issue remediation pipelines.
-      </td>
-      <td>
-        <code>Python</code> &bull; <code>Local LLMs (Metal)</code> &bull; <code>Vector DB</code> &bull; <code>GitHub REST API</code> &bull; <code>LangGraph</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>📟 <a href="https://github.com/merx666/guition-room-panel">Guition Smart Room Panel</a></b><br>
         <i>Embedded Firmware &amp; Touch GUI</i><br>
         <code>Embedded Systems Development</code>
@@ -134,15 +121,28 @@ From administering bare-metal server clusters serving tens of thousands of activ
     </tr>
     <tr>
       <td>
-        <b>🚁 <a href="https://github.com/merx666/skyreel_prod">Skyreel Marketplace</a></b><br>
-        <i>Full-Stack Marketplace Platform</i><br>
-        <code>High-Throughput Booking Flow</code>
+        <b>🤖 Autonomous Multi-Agent AI Core</b><br>
+        <i>Multi-Agent Framework &amp; MCP Integration</i><br>
+        <code>Autonomous Swarm Framework</code>
       </td>
       <td>
-        Professional drone services and aerial cinematography marketplace built for performance and scale. Implemented complex booking state machines, automated dispatch workflows, and responsive client flows.
+        Autonomous multi-agent orchestration architecture utilizing the Model Context Protocol (MCP). Implements goal-loop execution, persistent episodic vector memory, and self-evaluating deterministic safety guards with local model acceleration (Metal/MPS).
       </td>
       <td>
-        <code>Vue 3</code> &bull; <code>Tailwind CSS</code> &bull; <code>PostgreSQL</code> &bull; <code>Node.js / PHP</code>
+        <code>Python</code> &bull; <code>Model Context Protocol (MCP)</code> &bull; <code>Local LLMs (Metal)</code> &bull; <code>Hybrid RAG</code> &bull; <code>Vector DB</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>⚡ High-Throughput Query &amp; Data Engine</b><br>
+        <i>Database Optimization &amp; Streaming</i><br>
+        <code>Performance Engineering</code>
+      </td>
+      <td>
+        High-performance query filtering and data aggregation platform built to handle complex multi-dimensional database workloads with sub-millisecond latency. Features custom indexing strategies, memory cache hierarchies, and streaming pipelines.
+      </td>
+      <td>
+        <code>Python</code> &bull; <code>PostgreSQL WAL</code> &bull; <code>FastAPI</code> &bull; <code>Redis</code> &bull; <code>Index Tuning</code>
       </td>
     </tr>
   </tbody>
